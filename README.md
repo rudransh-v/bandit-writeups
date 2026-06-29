@@ -13,3 +13,4 @@ OverTheWire Bandit solutions — focused on *why* each approach works.
 | [Level 3](level-3.md) | Hidden Files | `ls -a`, dot files |
 | [Level 4](level-4.md) | File Type Identification | `file ./*`, wildcards, binary vs ASCII |
 | [Level 5](level-5.md) | find with Multiple Filters | `-type`, `-size`, `-perm`, logical NOT |
+| [Level 6](level-6.md) | `find` across full filesystem, stderr vs stdout, `2>/dev/null` |
